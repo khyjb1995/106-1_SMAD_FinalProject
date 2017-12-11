@@ -1,0 +1,46 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="550px" height="400px" viewBox="0 0 550 400">
+<defs>
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.97 0" result="result1"/>
+</filter>
+
+<path id="___1_0_Layer0_0_1_STROKES" stroke="#0000CC" stroke-width="13" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 168 84
+Q 168 118.8 143.4 143.4 118.8 168 84 168 49.2 168 24.6 143.4 0 118.8 0 84 0 49.2 24.6 24.6 49.2 0 84 0 118.8 0 143.4 24.6 168 49.2 168 84 Z"/>
+
+<font horiz-adv-x="2048">
+<!--  字體名稱: Lucida Handwriting Italic
+廠商編號: B&H 
+© 1991 Bigelow & Holmes Inc. All Rights Reserved. Pat. Pend. © 1990-1991 Type Solutions, Inc. All Rights Reserved.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=B&H&Name=Lucida%20Handwriting&PSName=LucidaHandwriting-Italic&applanguage=zh_TW-->
+<font-face font-family="Lucida_Handwriting_Italic" units-per-em="2048" ascent="1964" descent="666"/>
+
+<glyph unicode="L" horiz-adv-x="1252" d="
+M 1406 218
+Q 1340 120 1279 75 1219 30 1025 -4 831 -37 628 -37 309 -37 384 181 404 242 496 412
+L 1025 1394
+Q 1071 1479 1083 1516 1095 1550 1081 1579 1231 1629 1283 1629 1345 1629 1320 1558 1314 1540 1228 1382
+L 756 505
+Q 653 316 628 242 586 117 863 117 1110 117 1406 218 Z"/>
+
+<glyph unicode="C" horiz-adv-x="1450" d="
+M 1582 413
+Q 1586 367 1577 341 1533 211 1268 87 1003 -37 769 -37 513 -37 416 112 318 261 406 520 545 929 913 1223 1281 1517 1654 1517 1806 1517 1891 1463 1977 1409 1950 1331 1926 1261 1808 1176 1769 1418 1547 1418 1304 1418 1037 1166 771 914 656 577 583 363 649 237 715 112 900 112 1216 112 1582 413 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 181,110.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_1)" xlink:href="#___1_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 193,139) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="130.85" height="127.25" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="92.05" baseline-shift="0%" kerning="auto" font-family="Lucida_Handwriting_Italic" font-style="italic" font-size="96" fill="#0066CC" xml:space="preserve">LC</tspan></text>
+</g>
+</svg>
